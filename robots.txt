@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://theoghoxie.phfilip.com/sitemap.xml
